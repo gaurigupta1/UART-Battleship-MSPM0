@@ -249,7 +249,7 @@ src/
 ## Acknowledgments
 
 Built as the final project for ECE319K - Introduction to Embedded Systems at UT Austin.  
-Partner: Gauri Gupta  
+Team: Gauri Gupta, Clark Rucker  
 Instructor: Dr. Jonathan Valvano  
 
 ## About
